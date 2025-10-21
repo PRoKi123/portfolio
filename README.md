@@ -31,7 +31,8 @@
 
 |#|Название проекта|Описание проекта|Стек|
 |-|--------|----------|----------|
-|1|[Анализ недвижиомсти в Бангладеше и прогнозирование прогнозирование цен на нее](https://github.com/PRoKi123/portfolio/tree/main/real_estate_Bangladesh)|Импорт данных, предобработка, выдвижение гипотез, разделение данных, обучение и сравнение нескольких моделей для предсказания, выбор лучшей модели|pandas</br>numpy</br>re</br>seaborn</br>matplotlib</br>scikit-learn</br>xgboost|
+|1|[Анализ недвижиомсти в Бангладеше и прогнозирование цен на нее](https://github.com/PRoKi123/portfolio/tree/main/real_estate_Bangladesh)|Импорт данных, предобработка, выдвижение гипотез, разделение данных, обучение и сравнение нескольких моделей для предсказания, выбор лучшей модели|pandas</br>numpy</br>re</br>seaborn</br>matplotlib</br>scikit-learn</br>xgboost|
+|2|[Анализ вин и выдвижение гипотез](https://github.com/PRoKi123/portfolio/tree/main/wine_analysis)|Импорт данных, предобработка, группировка, анализ, визуализация, выводы|pandas</br>numpy</br>seaborn</br>matplotlib
 
 ## Курсы
 - [Машинное Обучение в Python: Большой Курс для Начинающих]. Stepik.
